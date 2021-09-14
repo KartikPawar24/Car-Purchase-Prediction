@@ -1,1 +1,1 @@
-### In this we make predictions that the user can spend the money for purchasing of a car based on Gender, Annual Salary, Credit Card Debt and Net Worth.
+### In this we make prediction for the user, who be able to sepnd the predicted amount on purchasing the car based on the factors like Gender, Annual Salary, Credit Card Debt and Net Worth.
